@@ -1,0 +1,4 @@
+﻿  Source.cpp
+F:\M5\HierbaAltaM5\HierbaAltaM5\Source.cpp(116,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+F:\M5\HierbaAltaM5\HierbaAltaM5\Source.cpp(126,117): warning C4305: 'argumento': truncamiento de 'int' a 'bool'
+  HierbaAltaM5.vcxproj -> F:\M5\HierbaAltaM5\x64\Debug\HierbaAltaM5.exe
